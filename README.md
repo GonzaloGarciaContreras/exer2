@@ -1,14 +1,17 @@
 # HEADING 1 
 
-## Add an H2 header for the README description.
-This is the readme description
+## H2 header 
+- This section contains links and images
 
 
-### Add links to each subfolder within the table of contents
+### Links to each subfolder within the table of contents
+- [code](./code)
+- [data](./data)
+- [images](./images)
+- [references](./references)
 
+### Link to header
+[to header](#-HEADING-1)
 
-### kink to header
-[link to table of content](#-HEADING-1)
-
-### image 
+### Fintech image 
 ![image text](./images/image1.jpeg)
